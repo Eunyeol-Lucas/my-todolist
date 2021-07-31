@@ -1,0 +1,130 @@
+body {
+    min-width: 500px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Elice Digital Baeum",sans-serif;
+    color: #ffffffd3;
+}
+
+#weather{
+    position: absolute;
+    top: 25px;
+    right: 10px;
+}
+
+#weather p:Last-child {
+    position: absolute;
+    right: 0;
+}
+
+#weather p {
+    font-family: "Roboto", sans-serif;;
+    font-weight: 500;
+    margin: 0;
+}
+
+.position {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.login-submit {
+    position: relative;
+}
+
+#day {
+    font-size: 50px;
+    height: 80px;
+    margin-bottom: 0px;
+    margin-top: 100px;
+}
+
+#clock {
+    font-size: 100px;
+    margin: 0px;
+}
+
+#login-form input:first-child {
+    margin: 20px 0;
+}
+
+#login-form input:first-child:focus,
+#todo-form input:focus {
+    outline: none;
+    border-bottom: 2px white solid;
+}
+
+#login-form input:first-child,
+#todo-form input {
+    width: 300px;
+    height: 40px;
+    font-size: 30px;
+    border: none;
+    background-color: rgba(000, 000, 000, 0);
+    text-align: center;
+    color: antiquewhite;
+}
+
+#login-form input:first-child::placeholder,
+#todo-form input::placeholder {
+    color:#ffffffd2;
+    font-size: 30px;
+}
+
+
+
+.greetings h1{
+    height: 40px;
+
+}
+img{
+    position: absolute;
+    top: 0;
+    z-index: -9999999;
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+    height: 350px;
+    max-height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    padding: 0;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+li {
+    font-size: 20px;
+    font-weight: 1000;
+    list-style: none;
+    margin: 10px auto;
+    width: 300px;
+    text-align:right
+
+}
+
+li button {
+    position: absolute;
+    background-color: rgba(000, 000, 000, 0);
+    border: none;
+    font-size: 20px;
+    margin-left: 20px;
+    outline: none;
+}
+li button:active {
+    margin-top: 3px;
+    margin-left: 17px;
+}
+
+#quote p {
+    margin: 0;
+}
