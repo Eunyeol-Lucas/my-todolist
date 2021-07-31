@@ -4,7 +4,7 @@ const quotes = [
         author: "Estee Lauder",
     },
     {
-        quote: " Do not try do be original, just try to be good.",
+        quote: " Do not try to be original, just try to be good.",
         author: "Paul Rand",
     },
     {
