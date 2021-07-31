@@ -29,4 +29,5 @@ weather.js
 계획
 - 로그아웃 버튼 추가
 - 로그인 기능을 통해 본인의 todo-list만 접근가능하게 변경
-![0731_todolist](https://user-images.githubusercontent.com/82889580/127730702-120c67fd-b6f1-4654-a0f6-19d14d8f85a6.gif)
+![0731_todo](https://user-images.githubusercontent.com/82889580/127730752-0e14ca0f-7ca8-413e-9db7-b7c03941e23d.gif)
+
