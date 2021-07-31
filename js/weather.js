@@ -1,4 +1,4 @@
-const API_KEY = "e7caed683685e1ef2bca2411d3b93fe3";
+const API_KEY = "Input Your API_KEY";
 
 function onGeoOk(position){
     const lat = position.coords.latitude;
