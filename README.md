@@ -1,7 +1,7 @@
 # my-todolist
 ## JavaScript, CSS, HTML를 사용한 Chrome WEB Todo List 클론코딩
 <br>
-
+### 2021-07-31
 background.js + quotes.js
 - 행렬을 통해 랜덤 백그라운드, 송출 문구 지정
 - Math.random, Math.floor 기능을 사용한 행렬 순번 randomize
@@ -25,7 +25,11 @@ weather.js
 - 함수를 사용하여 온도에 따라 대표 아이콘이 변경되게 설정
 
 <br>
+### 2021-07-31
+- weather.js API_KEY 폐기 및 수정 -> Input Your API_KEY로 변경
+- 사용하기 위해 https://openweathermap.org/ 에서 개인 API 생성 필요
 
+<br>
 계획
 - 로그아웃 버튼 추가
 - 로그인 기능을 통해 본인의 todo-list만 접근가능하게 변경
