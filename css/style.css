@@ -95,7 +95,6 @@ img{
 }
 
 ul#todo-list {
-    height: 21.875rem;
     max-height: 21.875rem;
     padding: 0;
     display: flex;
